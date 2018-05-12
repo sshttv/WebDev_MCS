@@ -1,0 +1,8 @@
+body {
+	background: black;
+	color: white;
+}
+
+nav, a {
+	color: yellow;
+}
